@@ -1,0 +1,6 @@
+First Come First Serve (FCFS) : Simplest scheduling algorithm that schedules according to arrival times of processes.
+Shortest Job First (SJF) : Process which have the shortest burst time are scheduled first.
+Shortest Remaining Time First (SRTF) : It is preemptive mode of SJF algorithm in which jobs are scheduled according to the shortest remaining time.
+Round Robin (RR) Scheduling : Each process is assigned a fixed time, in cyclic way.
+Priority Based scheduling (Non Preemptive) : In this scheduling, processes are scheduled according to their priorities, i.e., highest priority process is schedule first. If priorities of two processes match, then scheduling is according to the arrival time.
+Highest Response Ratio Next (HRRN) : In this scheduling, processes with highest response ratio is scheduled. This algorithm avoids starvation.
